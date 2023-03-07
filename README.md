@@ -1,12 +1,8 @@
 # Searchable Select Component
 
-<p align="center">
-    <img src="https://i.postimg.cc/fJPmfhWY/Screenshot-2023-03-07-224127.png">
-</p>
+![Component Image 1](https://github.com/liviaarumsari/dagangan-assesment/blob/master/comp-image1.png?raw=true)
 
-<p align="center">
-    <img src="https://i.postimg.cc/bZ2b6FdW/Screenshot-2023-03-07-224149.png">
-</p>
+![Component Image 2](https://github.com/liviaarumsari/dagangan-assesment/blob/master/comp-image2.png?raw=true)
 
 ## Description
 
