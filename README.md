@@ -1,8 +1,8 @@
 # Searchable Select Component
 
-![Component Image 1](https://github.com/liviaarumsari/dagangan-assesment/blob/master/comp-image1.png?raw=true)
+![Component Image 1](https://github.com/liviaarumsari/dagangan-assesment/blob/master/doc/comp-image1.png?raw=true)
 
-![Component Image 2](https://github.com/liviaarumsari/dagangan-assesment/blob/master/comp-image2.png?raw=true)
+![Component Image 2](https://github.com/liviaarumsari/dagangan-assesment/blob/master/doc/comp-image2.png?raw=true)
 
 ## Description
 
