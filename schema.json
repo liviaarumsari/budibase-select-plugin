@@ -10,7 +10,25 @@
       {
         "type": "text",
         "key": "text",
-        "label": "Text"
+        "label": "Label"
+      },
+      {
+        "type": "select",
+        "label": "Select Type",
+        "key": "selectType",
+        "defaultValue": "single",
+        "showInBar": true,
+        "barStyle": "picker",
+        "options": [
+          {
+            "label": "Single-select",
+            "value": "single"
+          },
+          {
+            "label": "Multi-select",
+            "value": "multiple"
+          }
+        ]
       }
     ]
   }
